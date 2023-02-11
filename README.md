@@ -38,3 +38,7 @@ My dataset (CSV) with a list of prompts for ChatGPT and GPT.
 #### 7
 
 ![](https://media.discordapp.net/attachments/1070851283310887014/1073834589669302402/Screenshot_20230211_131502.jpg)
+
+#### 8
+
+![](https://media.discordapp.net/attachments/1070851283310887014/1073920213092937728/Screenshot_20230211_185438.jpg)
